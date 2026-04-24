@@ -16,8 +16,4 @@ public class DummyService {
     public void logEvent(String event) {
         System.out.println("Event logged: " + event);
     }
-
-    public String getB() {
-        return "B";
-    }
 }
