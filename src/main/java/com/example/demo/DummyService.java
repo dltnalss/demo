@@ -16,10 +16,4 @@ public class DummyService {
     public void logEvent(String event) {
         System.out.println("Event logged: " + event);
     }
-    public String getStatus(){
-        return "Application";
-    }
-    public String getStatus2(){
-        return "Application";
-    }
 }
